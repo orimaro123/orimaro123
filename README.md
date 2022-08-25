@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 My name is Ori Marom
+
+### Full-Stack Developer
+
+
+- 🌍  I'm based in Israel
+- 🔭  I',m currently looking for Software Development Opportunities
+- ✉️  You can contact me at ori.marom10@gmail.com
+
+
 
 <!--
 **orimaro123/orimaro123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
