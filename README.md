@@ -4,7 +4,7 @@
 
 
 - 🌍  I'm based in Israel
-- 🔭  I',m currently looking for Software Development Opportunities
+- 🔭  I'm currently looking for Software Development Opportunities
 - ✉️  You can contact me at ori.marom10@gmail.com
 
 
